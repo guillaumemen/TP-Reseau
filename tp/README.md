@@ -50,11 +50,11 @@ Pour connaître les IP disponibles sur un réseau, il suffit de taper la command
 
 La commande affiche toute les adresses IP utilisés avec le nom du fabriquant.
 
-![sparkles](./capture.PNG)
+![image](https://github.com/ManonFargues/TP-Reseau/blob/master/tp/Capture.PNG)
 
 Elle précise le nombre d'IP total ainsi que le nombre d'IP utilisées.
 
-![sparkles](./capture1.PNG)
+![image](https://github.com/ManonFargues/TP-Reseau/blob/master/tp/capture1.png)
 
 Les IP disponibles sontoutes celles qui ne sont pas indiquées.
 
